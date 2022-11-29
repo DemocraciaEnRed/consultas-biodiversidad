@@ -5,6 +5,16 @@
 .jumbotron_body
   padding: 50px 0 !important
   .container
+    img
+      width: 600
+      height: 300
+      @media screen and (max-width: 425px)
+        width: 400
+      @media screen and (max-width: 375px)
+        width: 350
+      @media screen and (max-width: 320px)
+        height: 250
+        width: 300
     .lead
       font-size:18px
       margin-top: 5px
@@ -174,6 +184,12 @@
 
 .show-more
   height: 50px
+
+.cards 
+  display: flex
+  flex-direction: row
+  justify-content: space-evenly
+  flex-wrap: wrap
 
 .card 
   display: flex
