@@ -1,5 +1,5 @@
 .ext-footer
-  padding 60px 0
+  padding 60px 0 0 0
   margin-top 30px
   font-size 1em
   background-color #fff
@@ -13,10 +13,10 @@
     flex-wrap wrap
     align-items flex-start
     justify-content space-between
+    margin-bottom 60px
 
   .institutional
-    flex-grow 2
-
+    margin-bottom 60px
     p
       max-width 560px
   a
@@ -34,23 +34,62 @@
         opacity 1
 
   .gob
-    padding-right 30px
-    margin-bottom 30px
+    padding-right 15px
+    // margin-bottom 30px
 
     img
       max-width 100%
-      width 300px
+      width 200px
 
   .menu
     padding 0 15px
     text-align left
 
-    &:first-of-type
-      flex-grow 3
+    // &:first-of-type
+    //   flex-grow 3
 
     a
       display block
       padding 6px 0
+
+  .footer-navigation
+    display: flex
+    flex-direction: row
+
+  .flex-logos
+    display flex
+    flex-direction: row
+    justify-content: space-between
+
+  .logo-wrapper
+    width 100%
+    padding-right 15px
+
+    &.colaboracion
+      padding-left: 15px;
+      padding-right 0
+      
+      img
+        width 100px
+      
+    &:first-child
+      border-right: 1px solid #000
+
+  .demored
+    background-color: $main-color-resalted
+    color: #fff
+    text-align: center
+
+    .row
+      max-width: 1180px;
+      margin 0 auto
+      align-items: center
+    a
+      color: #fff
+    
+    img 
+      max-width: 100%
+    
 
   @media only screen and (max-width: 687px)
     .footer
@@ -64,9 +103,9 @@
         display block
         line-height 1em
 
-    .gob
-      img
-        width 300px
+    // .gob
+    //   img
+    //     width 300px
 
     .institutional
       padding 0 15px
