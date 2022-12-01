@@ -149,5 +149,7 @@
   ],
   "enforceLocale": true,
   "allowPublicAccess": true,
-  "allowPublicSignUp": true
+  "allowPublicSignUp": true,
+  "adminMail": "",
+  "adminPass": ""
 }
