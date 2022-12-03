@@ -14,6 +14,9 @@
     align-items flex-start
     justify-content space-between
     margin-bottom 60px
+    @media screen and (max-width: 992px)
+      flex-direction: column
+      align-items: center
 
   .institutional
     margin-bottom 60px
@@ -63,14 +66,21 @@
 
   .logo-wrapper
     width 100%
+    min-width: 150px
     padding-right 15px
 
     &.colaboracion
       padding-left: 15px;
       padding-right 0
+      flex-wrap: nowrap
       
       img
-        width 100px
+        width 50%
+        min-width 65px
+        max-width: 100px
+      div 
+        display: flex
+        flex-wrap: nowrap
       
     &:first-child
       border-right: 1px solid #000
