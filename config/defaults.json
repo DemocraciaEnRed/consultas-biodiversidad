@@ -111,7 +111,10 @@
   "imgs": {
     "logo": "/lib/frontend/site/home-multiforum/logo-header",
     "logoMobile": "/lib/frontend/site/home-multiforum/logo-header",
-    "logoFooter": "/lib/frontend/site/home-multiforum/logo-footer",
+    "logoFooter": "/lib/frontend/site/home-multiforum/logo-footer.png",
+    "logoFooter1": "/lib/frontend/site/home-multiforum/logo-footer1.png",
+    "logoFooter2": "/lib/frontend/site/home-multiforum/logo-footer2.png",
+    "logoFooter3": "/lib/frontend/site/home-multiforum/logo-footer3.png",
     "logoCentralHome": "/lib/frontend/site/home-multiforum/logo-central-home",
     "backgroundHome": "/lib/frontend/site/home-multiforum/background-home",
     "iconoHomeInformate": "/lib/frontend/site/home-multiforum/icono-home-informate",
