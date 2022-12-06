@@ -1,17 +1,23 @@
 # Términos y Condiciones
 ### Descripción
 
-Los siguientes Términos y Condiciones regulan el uso de la Plataforma **[Nombre de la plataforma]** donde se brinda información sobre  **[Intención de la plataforma]**
+Los siguientes Términos y Condiciones regulan el uso de la Plataforma **Biodiversidad Metropolitana** donde se brinda información para la elaboración participativa del Plan de Acción para la Estrategia Regional para la Conservación de la Biodiversidad de la Región Metropolitana de Santiago (2015-2025). En este espacio se fomenta la discusión sobre su contenido y se disponen herramientas para definir acciones prioritarias al respecto.
 
 El registro y uso de la plataforma por parte de los usuarios indica la aceptación absoluta de los Términos y Condiciones presentes y de la Política de Privacidad.
 
-La plataforma **[Nombre de la plataforma]** es un sitio web que promueve la democracia interna  **[Nombre de la plataforma]**. Esta herramienta favorece la generación de espacios de colaboración para co-diseñar y co-producir valor público.
+La plataforma **Biodiversidad Metropolitana** es un sitio web que promueve la democracia interna de la Región Metropolitana. Esta herramienta favorece la generación de espacios de colaboración para co-diseñar y co-producir valor público para la conservación de la biodiversidad de la Región Metropolitana de Santiago.
+
+La información presentada en la plataforma es de circulación restringida exclusivamente a los usuarios invitados a participar del proceso, el Administrador y los encargados de la elaboración del Plan de Acción de la Estrategia Regional para la Conservación de la Biodiversidad de la Región Metropolitana de Santiago (2015-2025). La circulación de dicha información concluye con la presentación del Plan de Acción.
+
+Todos los contenidos, documentación y datos consignados en la plataforma quedarán en custodia del Gobierno Regional Metropolitano de Santiago para efectos de la elaboración del Plan de Acción, siendo dicha entidad la única autorizada para publicar tales contenidos.
+
 
 ## Inscripción en la plataforma web
 
-El acceso al Sitio Web es libre y gratuito. Requiere inscripción previa a través de un formulario que deberá ser validado por la administración del sitio. 
+El acceso al Sitio Web es gratuito. Requiere inscripción previa a través de un formulario que deberá ser validado por la administración del sitio.
 
-La información personal suministrada por la/el Usuaria/o al momento de inscribirse en el Sitio Web está protegida con una clave, y sólo podrá ser modificada por el mismo Usuario. El Sitio Web se reserva el derecho de realizar validaciones en relación a la información brindada por el Usuario al momento de la inscripción. En caso de que la información brindada no pueda validarse, el Administrador se reserva el derecho de no dar de alta a ese Usuario. El Sitio Web está destinado únicamente a Usuarios mayores de 16 años cumplidos, de modo que cualquier registro de uso o acceso al Sitio Web por cualquier menor de esa edad no está autorizado. El Usuario garantiza y declara ser mayor de 16 años. Por su parte, el Administrador deslinda su responsabilidad en el caso de no ser veraz la información suministrada al respecto.
+La información personal suministrada por la/el Usuaria/o al momento de inscribirse en el Sitio Web está protegida con una clave, y sólo podrá ser modificada por el mismo Usuario. El Sitio Web se reserva el derecho de realizar validaciones en relación a la información brindada por el Usuario al momento de la inscripción. En caso de que la información brindada no pueda validarse, el Administrador se reserva el derecho a no registrar a ese Usuario. Por su parte, el Administrador deslinda su responsabilidad en el caso de no ser veraz la información suministrada al respecto.
+
 
 **Al momento de la inscripción el Usuario asume el compromiso y la responsabilidad de:**
 
@@ -29,7 +35,7 @@ La información personal suministrada por la/el Usuaria/o al momento de inscribi
 
 El Usuario deberá respetar estos Términos y Condiciones de Uso del Sitio Web. Las infracciones por acción u omisión de los presentes Términos y Condiciones de Uso generarán el derecho a favor del Administrador de suspender al Usuario que las haya realizado.
 
-El Usuario es el único responsable del contenido que suba, publique o muestre en el Sitio Web, garantizando que el mismo no infringe derechos de terceros ni los Términos y Condiciones de Uso ni viola ninguna ley, reglamento u otra normativa. El Usuario entiende y acepta que el material y/o contenido que suba y/o publique podría ser utilizado por otros Usuarios del Sitio Web y/o por terceras personas ajenas, y que el Administrador del Sitio Web no será responsable en ningún caso por tales utilizaciones.
+El Usuario es el único responsable del contenido que suba, publique o muestre en el Sitio Web, garantizando que el mismo no infringe derechos de terceros ni los Términos y Condiciones de Uso ni viola ninguna ley, reglamento u otra normativa. El Usuario entiende y acepta que el material y/o contenido que suba y/o publique podría ser utilizado por otros Usuarios del Sitio Web y que el Administrador del Sitio Web no será responsable en ningún caso por tales utilizaciones.
 
 El Usuario se obliga a usar el Sitio Web de conformidad con estos Términos y Condiciones, en forma correcta y lícita. En caso contrario, el Sitio Web podrá retirar el contenido y/o suspender la cuenta del Usuario, por considerarlo: violatorio de estos Términos y Condiciones y/o de la Política de Privacidad de este Sitio Web, ofensivo, ilegal, violatorio de derechos de terceros, contrario a la moral y buenas costumbres y amenaza la seguridad de otros Usuarios.
 
@@ -37,11 +43,10 @@ Sin embargo, esta posibilidad no implica necesariamente que el contenido de toda
 
 El Usuario responderá por los daños y perjuicios de toda naturaleza que el Sitio Web pueda sufrir, directa o indirectamente, como consecuencia del incumplimiento de cualquiera de las cláusulas derivadas de estos Términos y Condiciones de Uso.
 
-El Sitio Web no controla ni garantiza la ausencia de virus u otros softwares de tipo destructivo en el material descargable puesto a disposición por los Usuarios.
+En relación a los aportes, colaboraciones y/o comentarios que los Usuarios realicen con respecto a las iniciativas propuestas en el Sitio Web, las mismas NO son de carácter vinculante, obligatorio y/o impositivo sobre el documento final.
 
-En relación a los aportes, colaboraciones, comentarios y votaciones que los Usuarios realicen con respecto a las iniciativas propuestas en el Sitio Web, las mismas NO son de carácter vinculante, obligatorio y/o impositivo sobre el documento final.
+La adecuada utilización de todos los recursos de Internet es, sin excepción, de entera responsabilidad del Usuario del Sitio Web.
 
-La adecuada utilización de todos los recursos de Internet es, sin excepción, de entera responsabilidad del Usuario del Sitio Web. 
 
 ## Actividades Prohibidas
 
@@ -53,16 +58,17 @@ Las siguientes actividades, sean lícitas o ilícitas, se encuentran expresament
 * Publicar de manera intencionada o con conocimiento injurias o calumnias;
 * Publicar, con el intento de engañar, contenido que es falso o inexacto;
 * Intentar usurpar la identidad de otro Usuario, representando de manera falsa su afiliación con cualquier individuo o entidad, o utilizar el nombre de otro Usuario con el propósito de engañar;
-* Promover, defender o mostrar pornografía, obscenidad, vulgaridad, blasfemia, odio, fanatismo, racismo y/o violencia. En caso de sufrir alguna de estas situaciones, comunicarse con el Administrador a través de **[Nombre de la plataforma]**
-* Vulnerar los derechos establecidos en la Ley N° 25.326 de Protección de Datos Personales.
+* Promover, defender o mostrar pornografía, obscenidad, vulgaridad, blasfemia, odio, fanatismo, racismo y/o violencia. En caso de sufrir alguna de estas situaciones, comunicarse con el Administrador a través de contacto@biodiversidadmetropolitana.cl
+* Vulnerar los derechos establecidos en la Ley N° 19.628 de Protección de Datos Personales.
+
 
 
 ## Moderación de las iniciativas
 
-Cada iniciativa/propuesta publicada en el Sitio Web tendrá un moderador responsable de hacer cumplir estos Términos y Condiciones de uso. El moderador será designado por el organismo originante de la propuesta.
+La consulta publicada en el Sitio Web tendrá un moderador responsable de hacer cumplir estos Términos y Condiciones.
 
-Fomentamos un diálogo franco y abierto, pero manteniendo el nivel de la discusión, evitando afrentas a personas o instituciones, material comercial no relacionado (SPAM) u otros desvíos de la intención original del Sitio Web. 
+Fomentamos un diálogo franco y abierto, pero manteniendo el nivel de la discusión, evitando afrentas a personas o instituciones, material comercial no relacionado (SPAM) u otros desvíos de la intención original del Sitio Web.
 
 ## Ley aplicable y jurisdicción del Sitio Web.
 
-Los Términos y Condiciones de Uso aquí presentados se rigen por las leyes de la República Argentina. El Administrador y el Usuario se someten a los Tribunales Nacionales en lo Contencioso Administrativos con asiento en la Ciudad Autónoma de Buenos Aires.
+Los Términos y Condiciones de Uso aquí presentados se rigen por las leyes de la legislación chilena. El Administrador y el Usuario se someten a los **Tribunales Ordinarios con asiento en la ciudad de Santiago de Chile.**
