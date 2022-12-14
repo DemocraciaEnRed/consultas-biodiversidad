@@ -49,15 +49,16 @@
         justify-content: center
         text-align: center
       .forum-card-title
+        font-family: 'formata-medium', sans-serif;
         font-size: 21px
-        font-weight: 400
         line-height: 37px
         margin: 0
         @media screen and (max-width: 750px)
           //little tweak to make card-titles negative color from their background img color (banner view header)
           max-width: 90%
-          filter: invert(1);
-          mix-blend-mode: difference;
+          color: white
+          // filter: invert(1);
+          // mix-blend-mode: difference;
       .forum-card-author
         font-size: 20px
         font-weight: 400
@@ -68,6 +69,7 @@
 
     .forum-card-body
       .forum-card-description
+        font-family: 'Fira Sans', sans-serif;
         font-size: 17px
         font-weight: 300
         color: #595959
