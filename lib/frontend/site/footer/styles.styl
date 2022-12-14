@@ -36,7 +36,7 @@
         opacity 1
 
   .gob
-    padding-right 15px
+    // padding-right 15px
     // margin-bottom 30px
 
     img
@@ -61,19 +61,18 @@
   .flex-logos
     display flex
     flex-direction: row
-    align-items: flex-end
-    justify-content: space-between
+    flex-wrap: wrap
+    // align-items: flex-end
+    justify-content: center
 
   .logo-wrapper
-    width 100%
-    min-width: 150px
-    padding-right 15px
+    text-align: center
+    // min-width: 250px
+    // padding-right 15px
 
     &.colaboracion
-      padding-left: 15px;
-      padding-right 0
-      flex-wrap: nowrap
-      
+      padding-left: 1rem;
+      // flex-wrap: nowrap
       img
         width 50%
         min-width 65px
@@ -81,9 +80,31 @@
       div 
         display: flex
         flex-wrap: nowrap
-      
+
+    &.sgo
+      padding-right: 1rem
+      img
+        width 50%
+        min-width 85px
+        max-width: 150px
+      div
+        display: flex
+        flex-wrap: nowrap
+
     &:first-child
       border-right: 1px solid #000
+
+    @media screen and (max-width: 768px)
+      &.colaboracion
+        padding-left: 0
+      &.sgo
+        width: 100%
+        padding-right: 0
+        padding-bottom: 60px
+        div
+          justify-content: center;
+      &:first-child
+        border-right: none
 
   .demored
     background-color: $main-color-resalted
