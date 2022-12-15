@@ -19,13 +19,12 @@ En este contexto, la plataforma digital “Biodiversidad Metropolitana'' es un c
 
 ## Contacto
 
-**Dirección:** Ciudad Autónoma de Buenos Aires
+**Dirección:** Bandera 46, Santiago, Chile
 
-**Código postal:** 
 
-**Teléfono:** 
+**Teléfono:** +56 22 2509000
 
-**Correo electrónico:** [it@democracyos.org](mailto:it@democracyos.org)
+**Correo electrónico:** [contacto@biodiversidadmetropolitana.cl ](mailto:contacto@biodiversidadmetropolitana.cl )
 ​
 ## Tecnología
 
