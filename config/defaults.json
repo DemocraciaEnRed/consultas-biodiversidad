@@ -155,5 +155,7 @@
   "allowPublicAccess": true,
   "allowPublicSignUp": true,
   "adminMail": "",
-  "adminPass": ""
+  "adminPass": "",
+  "enableSignUpMasterKey": false,
+  "signUpMasterKey": ""
 }
