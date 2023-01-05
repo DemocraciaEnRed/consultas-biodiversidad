@@ -6,15 +6,13 @@ export default class Slider extends Component {
     super(props)
     this.state = {
       options: [
-        'Totalmente en contra',
-        'Muy en contra',
-        'En contra',
-        'Un poco en contra',
-        'A favor',
-        'Un poco a favor',
-        'A favor',
-        'Muy a favor',
-        'Totalmente a favor',
+        'No relevante',
+        'Poco relevante',
+        'Medianamente relevante',
+        '50/50',
+        'Relevante',
+        'Muy relevante',
+        'Absolutamente relevante',
       ]
     }
   }
@@ -41,10 +39,10 @@ export default class Slider extends Component {
           <tbody>
             {
               options.map( (option, i) => 
-            <tr>
+            <tr key={`option-${i}`}>
               <td>
-                {option}
-                </td>
+                {option} 
+              </td>
               <td className="bg-light text-center">
                 {topic.action.results[i].votes}
               </td>
