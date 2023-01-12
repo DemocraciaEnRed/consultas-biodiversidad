@@ -75,7 +75,7 @@ export default class Carrusel extends Component {
         {this.props.topic &&
           <h2 className='title'>Puedes seguir participando</h2>
         }
-        <div className='topics-container' ref='carrusel'>
+        <div className='topics-container container' ref='carrusel'>
           {this.state.topics && this.state.topics.map((topic) => (
             <TopicCard key={topic.id} topic={topic}/>
           ))}
