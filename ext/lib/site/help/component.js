@@ -78,6 +78,7 @@ export default class HelpLayout extends PureComponent {
                   articles={this.articles} />
               </aside>
               <article className='help-content col-md-8'>
+                test
                 <active.Content />
               </article>
             </div>
