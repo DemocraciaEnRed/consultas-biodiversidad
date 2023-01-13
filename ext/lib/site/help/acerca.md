@@ -6,10 +6,11 @@ A la elaboración participativa de este Plan de Acción, el Gobierno Regional Me
  
 El proceso participativo en cuestión se compone de cuatro etapas:
  
-1. La recopilación de las acciones emprendidas a la fecha en el marco de la Estrategia (2015-2025), así como de sugerencias de acciones que debieran ser emprendidas en el corto y mediano plazo, ambas mediante una encuesta breve. 
-2. Una fase de información respecto a la Estrategia (2015-2025) y de debate sobre las acciones sugeridas individualmente en la etapa anterior entre los actores invitados a participar, a través de un foro digital.
-3. Un taller presencial de deliberación de las actividades propuestas colectivamente (si la condición sanitaria lo sigue permitiendo).
-4. La jerarquización de las actividades propuestas de manera de determinar participativamente las propuestas consideradas relevantes y prioritarias, a través de esta plataforma digital. 
+1. Recopilación de información sobre las iniciativas o acciones de conservación de la biodiversidad regional realizadas en los últimos años acciones ejecutadas hasta la fecha y propuestas de acciones a realizar, mediante encuestas.
+2. Deliberación sobre acciones prioritarias propuestas y líneas de acción en base a los ejes de la estrategia y factores críticos. Esta etapa considera dos espacios complementarios entre sí:
+    1.  Difusión de información y deliberación digital sobre acciones prioritarias recopiladas, transformadas a factores críticos y líneas estratégicas, a través de la plataforma digital Biodiversidad Metropolitana.
+    2.  Deliberación presencial sobre factores críticos y líneas estratégicas del Plan de Acción.
+3. Jerarquización de factores críticos prioritarios, a través de la plataforma digital Biodiversidad Metropolitana. 
  
 Elaborado el Plan de Acción de la forma descrita y aprobado por el departamento de Medio Ambiente, Biodiversidad y Acción Climática del GORE Metropolitano de Santiago, este será debida y oportunamente difundido.
  
