@@ -4,7 +4,7 @@ El Gobierno Regional Metropolitano de Santiago se encuentra desarrollando un pro
  
 A la elaboración participativa de este Plan de Acción, el Gobierno Regional Metropolitano de Santiago ha convocado a un grupo compuesto por más de 100 actores relevantes para la conservación de la biodiversidad de nuestra Región, con la representación de distintos tipos de instituciones, tales como: organizaciones de la sociedad civil, academia, ministerios, organismos sectoriales, municipalidades, agrupaciones gremiales, parques y comunidades de pueblos originarios.
  
-El proceso participativo en cuestión se compone de cuatro etapas:
+El proceso participativo en cuestión se compone de tres etapas:
  
 1. Recopilación de información sobre las iniciativas o acciones de conservación de la biodiversidad regional realizadas en los últimos años acciones ejecutadas hasta la fecha y propuestas de acciones a realizar, mediante encuestas.
 2. Deliberación sobre acciones prioritarias propuestas y líneas de acción en base a los ejes de la estrategia y factores críticos. Esta etapa considera dos espacios complementarios entre sí:
