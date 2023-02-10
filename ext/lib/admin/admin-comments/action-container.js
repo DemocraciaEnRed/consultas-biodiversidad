@@ -51,6 +51,8 @@ export default class ActionContainer extends Component {
           </div>
         }
         <div>
+        <a className="btn btn-primary btn-sm" href={`/api/v2/topics/${topicCopy.id}/participants`} download="participantes.xls">Descargar participantes</a>
+
           {
             shrinked ?
               <h5 className="toggle-title text-primary" onClick={this.toggleShrink}>▼ Mostrar los resultados ▼</h5>
